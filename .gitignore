@@ -1,0 +1,12 @@
+
+Ventilator Controller/.pio/build/mkrnb1500/.sconsign.py38.dblite
+*.o
+Ventilator Controller/.vscode/launch.json
+Ventilator Controller/.vscode/c_cpp_properties.json
+Ventilator Controller/.pio/build/project.checksum
+Ventilator Controller/.pio/build/mkrnb1500/libFrameworkArduinoVariant.a
+Ventilator Controller/.pio/build/mkrnb1500/libFrameworkArduino.a
+Ventilator Controller/.pio/build/mkrnb1500/firmware.elf
+Ventilator Controller/.pio/build/mkrnb1500/firmware.bin
+Ventilator Controller/.pio/build/mkrnb1500/lib91d/libPID_ID2.a
+V0 Prototype/V0.3/VentCont_V0.3/M_dlhrDiffPress_avrBoard.cpp
