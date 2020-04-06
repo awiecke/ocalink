@@ -100,6 +100,7 @@ void loop() {
   BreathCycleStep prevCycleStep = currBreathCycleState.CurrCycleStep;
   #endif
 
+  //TODO: Make sure clock overflow is handled gracefully
   currBreathCycleState.CurrTimeInCycleMilliseconds = millis()-currBreathCycleState.CycleStartTimeFromSysClockMilliseconds;
   if(currBreathCycleState.CurrTimeInCycleMilliseconds <= currBreathCycleSettings.InhaleRampDurationMilliseconds)
   {
